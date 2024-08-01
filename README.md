@@ -10,5 +10,8 @@
 ## Code Editors
 [![Editors](https://skillicons.dev/icons?i=vscode,neovim)](https://skillicons.dev)
 
+## Web Servers
+[![Servers](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
+
 ## I'm bad for now 😂
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)

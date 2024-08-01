@@ -5,8 +5,10 @@
 - 🌎 The languages ​​I study are Brazillian Portuguese and English
 
 ## I dominate
-[![My Skills](https://skillicons.dev/icons?i=go,git,linux,docker,mysql,sqlite,postgres,bash,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,git,linux,docker,mysql,sqlite,postgres,bash,github)](https://skillicons.dev)
 
+## Code Editors
+[![Editors](https://skillicons.dev/icons?i=vscode,neovim)](https://skillicons.dev)
 
 ## I'm bad for now 😂
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)

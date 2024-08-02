@@ -14,7 +14,7 @@
 [![Servers](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
 
 ## Frameworks
-<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" title="Gin Gonic Framework" width="50">
+<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" title="Gin Gonic Framework" width="50"> [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
 ## I'm bad for now 😂
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)

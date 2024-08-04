@@ -4,8 +4,8 @@
 - 🖥️ I also have great interest in other areas such as Hardware Hacking, Game Hacking, Networking, Cryptocurrency and more
 - 🌎 The languages ​​I study are Brazillian Portuguese and English
 
-## Languages and Technologies
+<!--## Languages and Technologies
 [![My Skills](https://skillicons.dev/icons?i=cs,go,git,linux,docker,mysql,sqlite,postgres,bash,github)](https://skillicons.dev)
 
 ## Code Editors
-[![Editors](https://skillicons.dev/icons?i=vscode,neovim)](https://skillicons.dev)
+ [![Editors](https://skillicons.dev/icons?i=vscode,neovim)](https://skillicons.dev) --!>
